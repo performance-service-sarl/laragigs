@@ -6,6 +6,7 @@ An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel 
 
 ## Usage
 
+
 ### Database Setup
 This app uses MySQL. To use something different, open up config/Database.php and change the default driver.
 
